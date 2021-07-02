@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46a176e7-00e2-4a8d-863f-28ef4b55933e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gauge/executionStatus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/failures.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/lastRunCmd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/default/default.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/default/java.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/api.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/gauge.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/css/open-sans.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/Gauge-Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/close.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/gaugeLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/js/auto-complete.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/js/clipboard.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/js/jquery-3.1.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/js/lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/js/search_index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/specs/example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/specs/example.cpt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/specs/example.spec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StepImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/BaseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/StepImplementation.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ulA98qbL8PRaXHQuyAC2Tcge8V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Gauge Execution.Test 1 (2)">
+    <configuration name="Test 1 (1)" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:10" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="com.testinium.ThyAppiumAutomation" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test 1 (2)" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:10" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="com.testinium.ThyAppiumAutomation" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test 1 (4)" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:10" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="com.testinium.ThyAppiumAutomation" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test 1 (5)" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:10" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="com.testinium.ThyAppiumAutomation" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test 1" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/example.spec:10" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="com.testinium.ThyAppiumAutomation" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gauge Execution.Test 1 (2)" />
+        <item itemvalue="Gauge Execution.Test 1 (1)" />
+        <item itemvalue="Gauge Execution.Test 1" />
+        <item itemvalue="Gauge Execution.Test 1 (5)" />
+        <item itemvalue="Gauge Execution.Test 1 (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46a176e7-00e2-4a8d-863f-28ef4b55933e" name="Default Changelist" comment="" />
+      <created>1625229649322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625229649322</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

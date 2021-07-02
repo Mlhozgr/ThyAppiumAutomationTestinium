@@ -1,0 +1,8 @@
+[
+	"C:\\Program Files\\Gauge\\bin\\gauge.exe",
+	"run",
+	"--machine-readable",
+	"--hide-suggestion",
+	"--simple-console",
+	"C:/Users/testinium/IdeaProjects/com.testinium.ThyAppiumAutomation/specs/example.spec:10"
+]
